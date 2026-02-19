@@ -1,8 +1,8 @@
 {
   "name": "prisma-launcher",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "productName": "PRISMA Launcher",
-  "description": "Modded Minecraft Launcher",
+  "description": "PRISMA Launcher",
   "author": "NongMiney",
   "license": "UNLICENSED",
   "homepage": "#",
